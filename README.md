@@ -5,3 +5,5 @@ Esta linea representa la modificacio del archivo README desde la pagina de Githu
 Aprendimos que el archivo README es compatible con [MarkDown](https://stackedit.io/) 
 
 Este es mi segundo commit desde la pagina de github. Este es mi [perfil de git hub](https://github.com/davidGalaviz)
+
+Este es el primer commit desde la terminal
