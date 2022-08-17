@@ -12,3 +12,5 @@ Esta linea represente el segundo commit realizado por terminal.
 
 Este es el tercer commit por terminal y se agrega el archivo texto.txt
 
+Este es el cuarto commit por terminal para hacer un ejemplo del pull
+ desde githubDesktop
