@@ -7,3 +7,5 @@ Aprendimos que el archivo README es compatible con [MarkDown](https://stackedit.
 Este es mi segundo commit desde la pagina de github. Este es mi [perfil de git hub](https://github.com/davidGalaviz)
 
 Este es el primer commit desde la terminal
+
+Esta linea represente el segundo commit realizado por terminal. 
