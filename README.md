@@ -9,3 +9,6 @@ Este es mi segundo commit desde la pagina de github. Este es mi [perfil de git h
 Este es el primer commit desde la terminal
 
 Esta linea represente el segundo commit realizado por terminal. 
+
+Este es el tercer commit por terminal y se agrega el archivo texto.txt
+
