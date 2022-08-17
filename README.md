@@ -14,3 +14,6 @@ Este es el tercer commit por terminal y se agrega el archivo texto.txt
 
 Este es el cuarto commit por terminal para hacer un ejemplo del pull
  desde githubDesktop
+
+Este es el primer commit desde githubDesktop
+para mostrar el funcionamiento de pull
