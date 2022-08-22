@@ -19,3 +19,5 @@ Este es el primer commit desde githubDesktop
 para mostrar el funcionamiento de pull
 
 Esta linea representa un commit realizado con la funcion source control de visual studio code
+
+Esta linea representa un commit relizado con la extencion "Github Pull Requests and Issues"
